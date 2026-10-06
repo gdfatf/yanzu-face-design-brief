@@ -1,0 +1,6 @@
+{
+  "name": "yanzu-face-design-brief",
+  "private": true,
+  "scripts": { "test": "node tests/smoke.cjs" },
+  "devDependencies": { "playwright": "1.62.1", "pdf-lib": "1.17.1" }
+}
